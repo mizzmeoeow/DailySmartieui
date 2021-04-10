@@ -1,5 +1,4 @@
 import { SET_RECENT_POSTS, SET_RESULTS_POSTS } from "../actions/types";
-import resultsPosts from "../components/resultsPosts";
 
 const INIT_STATE = {
   resultsPosts: [],
